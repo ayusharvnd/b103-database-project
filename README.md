@@ -34,4 +34,4 @@ The database manages students, instructors, courses, and enrollments. It demonst
 - Generate reports such as total students per course
 
 ## Video Demonstration
-[Paste your video link here]
+https://drive.google.com/file/d/18MI6eVICRsTGvfACAY4h2lbKtBEAhm9X/view?usp=sharing
