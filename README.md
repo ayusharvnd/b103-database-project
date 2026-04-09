@@ -21,7 +21,7 @@ The database manages students, instructors, courses, and enrollments. It demonst
 - Aggregation queries
 
 ## How to Run
-1. Open your SQL environment (such as SQLite, MySQL, or DB Browser for SQLite).
+1. Open your SQL environment (such as SQLite, MySQL, or DBeaver).
 2. Run `schema.sql` to create the tables.
 3. Run `sample_data.sql` to insert sample records.
 4. Run the queries in `queries.sql` to test the system.
